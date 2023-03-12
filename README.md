@@ -1,24 +1,32 @@
 # Simon Game
 
-Game built to improve the focus skill. 
+Game built to improve the focus, calming activity for nervous system. 
 
 ## Tech Stack
 
-- JavaScript
 - jQuery
+- JavaScript
 - CSS
 - HTML
 
 ## Demo
 
-<a href ='https://bmi-calculator-git-master-vthakar3-gmailcom.vercel.app/'>**Demo Link** </a>
+<a href ='https://varunthaker.github.io/The_Simon_Game/'>**Demo Link** </a>
 
 ## Description
 
-- User has to enter two inputs Weight (kg) & Height (cm)
+- It is the fun way to improve the focus, brain remembarance power
+- Single Player Game with different colour & Sound effects
+- Game automatically generates the random colour, user has to click on same button.
+- For the next level user has to remember the previous colour and new generated colour.
 
-<img width="312" alt="UI_Gen" src="https://github.com/varunthaker/BMI-Calculator/blob/e38eafb52f74b5fe5e2cbe91eb743c4567e43c5a/BMI_GenUI.png">
+For example:
+Level 1: Red click=> Red
+Level 2: Green click=> Red, Green
+Level 3: Yellow click=> Red, Green, Yellow
 
-- results will displayes with the BMI value & recommendation
+<img width="312" alt="UI_Gen" src="https://github.com/varunthaker/The_Simon_Game/blob/ed39f23765f5ea0dafc479f5c850236ae1bd3798/Simon.png">
 
-<img width="312" alt="Win" src="https://github.com/varunthaker/BMI-Calculator/blob/ca21fa812ad5f65fb341c3b529c94ecbaf4538b4/MBI_Cal.png">
+Any wrong colour or pattern selection will result in to loose.
+
+<img width="312" alt="Win" src="https://github.com/varunthaker/The_Simon_Game/blob/ed39f23765f5ea0dafc479f5c850236ae1bd3798/levels_draw.png">
